@@ -1105,4 +1105,8 @@
     unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Scheherazade&subset=arabic');
+@import url('https://fonts.googleapis.com/css?family=Scheherazade&subset=arabic');@font-face {
+    font-family: 'Khalaad-Sara';
+    src: url('khalaad sara.ttf') format('truetype');
+    unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
+}
